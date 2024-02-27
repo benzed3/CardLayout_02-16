@@ -17,11 +17,12 @@ nav {
 h4 {
     margin-bottom: 0;
     float: left;
-    padding: 15px;
+    padding: 13px;
 }
 
 h5 {
     float: left;
     margin-bottom: 0;
-    padding: 15px;
+    padding: 17.5px 13px 13px 13px;
+    color: gray;
 }
