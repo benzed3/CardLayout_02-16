@@ -17,12 +17,14 @@ nav {
 h4 {
     margin-bottom: 0;
     float: left;
-    padding: 13px;
+    padding: 16px 13px 13px 16px;
+    font-size: 20px;
 }
 
 h5 {
     float: left;
     margin-bottom: 0;
-    padding: 17.5px 13px 19px 13px;
+    padding: 20px 13px 19px 3px;
     color: gray;
+    font-size: 16px;
 }
